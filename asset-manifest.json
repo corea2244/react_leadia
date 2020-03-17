@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "react-leadia/static/css/main.d98837fb.chunk.css",
-    "main.js": "react-leadia/static/js/main.616f715b.chunk.js",
-    "main.js.map": "react-leadia/static/js/main.616f715b.chunk.js.map",
-    "runtime-main.js": "react-leadia/static/js/runtime-main.c04c877a.js",
-    "runtime-main.js.map": "react-leadia/static/js/runtime-main.c04c877a.js.map",
-    "static/js/2.4e4f12dd.chunk.js": "react-leadia/static/js/2.4e4f12dd.chunk.js",
-    "static/js/2.4e4f12dd.chunk.js.map": "react-leadia/static/js/2.4e4f12dd.chunk.js.map",
-    "index.html": "react-leadia/index.html",
-    "precache-manifest.945d7c81e1cf98eb87a89d1d1d1aeae6.js": "react-leadia/precache-manifest.945d7c81e1cf98eb87a89d1d1d1aeae6.js",
-    "service-worker.js": "react-leadia/service-worker.js",
-    "static/css/main.d98837fb.chunk.css.map": "react-leadia/static/css/main.d98837fb.chunk.css.map",
-    "static/js/2.4e4f12dd.chunk.js.LICENSE.txt": "react-leadia/static/js/2.4e4f12dd.chunk.js.LICENSE.txt"
+    "main.css": "react_leadia/static/css/main.d98837fb.chunk.css",
+    "main.js": "react_leadia/static/js/main.616f715b.chunk.js",
+    "main.js.map": "react_leadia/static/js/main.616f715b.chunk.js.map",
+    "runtime-main.js": "react_leadia/static/js/runtime-main.c04c877a.js",
+    "runtime-main.js.map": "react_leadia/static/js/runtime-main.c04c877a.js.map",
+    "static/js/2.4e4f12dd.chunk.js": "react_leadia/static/js/2.4e4f12dd.chunk.js",
+    "static/js/2.4e4f12dd.chunk.js.map": "react_leadia/static/js/2.4e4f12dd.chunk.js.map",
+    "index.html": "react_leadia/index.html",
+    "precache-manifest.945d7c81e1cf98eb87a89d1d1d1aeae6.js": "react_leadia/precache-manifest.945d7c81e1cf98eb87a89d1d1d1aeae6.js",
+    "service-worker.js": "react_leadia/service-worker.js",
+    "static/css/main.d98837fb.chunk.css.map": "react_leadia/static/css/main.d98837fb.chunk.css.map",
+    "static/js/2.4e4f12dd.chunk.js.LICENSE.txt": "react_leadia/static/js/2.4e4f12dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c04c877a.js",
